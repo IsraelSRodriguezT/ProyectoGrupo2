@@ -1,4 +1,4 @@
-##Módulo de Gestión de Pedidos - Restaurante
+## Módulo de Gestión de Pedidos - Restaurante
 Este módulo forma parte del sistema de gestión de pedidos para un restaurante, diseñado para manejar eficientemente el ciclo de vida de los pedidos, desde su creación hasta su cierre. A continuación, se presenta una justificación detallada del diseño del diagrama UML y cómo satisface los requerimientos funcionales del sistema.
 
 Justificación del Diseño UML
